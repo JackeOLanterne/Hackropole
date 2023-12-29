@@ -7,11 +7,10 @@
    
 * ROT13
 
- - copie d'écran montrant l'appel au déchiffrement en ligne du texte chiffré avec l'encodage en ROT13 
- - résultat du décodage affiché comme une recette de cuisine à gauche. Il est noté un flag au milieu.
+ - On utilise le solveur en ligne : https://www.dcode.fr/ montrant l'appel au déchiffrement du texte chiffré avec l'encodage en ROT13 
+ - résultat du décodage affiché comme une recette de cuisine à gauche. Il est noté le décodage d'un flag attendu en réponse au milieu.
 
-Le flag qui apparaît est le résultat à dénicher (hormis l'humour de cette recette de la préhistoire):
-FCSC{ed24c7fd86c2f0515366}
+Le flag qui apparaît est le résultat obtenu à dénicher (hormis l'humour de cette recette de la préhistoire): FCSC{ed24c7fd86c2f0515366}
 
 TO DO liste :
 - Pain (2 baguettes)
@@ -23,3 +22,4 @@ TO DO liste :
 - Pntes (1kg)
 - Riz (sac de 18kg)
 - Nourir mon dinosaure
+
