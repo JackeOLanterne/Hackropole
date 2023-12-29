@@ -39,4 +39,4 @@ l'acceptez bien sur, sera d'infiltrer le reseau
 souterrain ou se cache nos ennemis. Rendez-vous a
 **Nantes** le 29 avril pour le debut de votre mission.
 
-***Le flag est donc FCSC{Nantes}***
+**Le flag est donc FCSC{Nantes}**
