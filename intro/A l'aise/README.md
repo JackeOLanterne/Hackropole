@@ -1,15 +1,15 @@
 # FCSC2023
-## Challenge de l'ANSSI à l'Hackopole rassemblant les résolutions d'années passées depuis 2019 à 2023, etc.
+## Challenges en lice de l'ANSSI à l'Hackopole rassemblant les résolutions d'années passées depuis 2019 à 2023.
 
 ### Le défi présent utilise un chiffrement de Vigenère par substitution divers selon la position des lettres.
 
-   ### 1. intro
+   ## 1. intro
    
-#### A l'aise
+## A l'aise
 
 ## Objectif:
 
-** A l'aise déchiffrée **
+### A l'aise déchiffrée 
 
 Cette épreuve vous propose de déchiffrer un message chiffré avec la méthode inventée par Blaise de Vigénère.
 
